@@ -7,7 +7,7 @@ namespace Lesson9Work1
     class Program
     {
         static int count = 0;
-        public static string StartString = @"C:\Users\Дима\Desktop\TestDir";
+        public static string StartString = @"C:\";
         
         static void Main(string[] args)
         {
